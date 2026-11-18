@@ -31,7 +31,7 @@ namespace KempingFoglalas
             }
             else if (ParcellaTipus == "KOMFORT")
             {
-                osszeg = EjszakakSzama *  9500 + EjszakakSzama * (FelnotFo * 4000 + GyerekFo * 2500);
+                osszeg = EjszakakSzama *  9500 + EjszakakSzama * (FelnotFo * 500 + GyerekFo * 1500);
             }
             if (EjszakakSzama >=5)
             {
